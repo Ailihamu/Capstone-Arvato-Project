@@ -34,6 +34,6 @@ The main parts of the project:
 
 Please see the main findings of this project at the post available [here]()
 
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+## Acknowledgements<a name="licensing"></a>
 
 Thanks to Uducity and Arvato for provding the data and organising the project.
