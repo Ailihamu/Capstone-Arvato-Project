@@ -32,7 +32,7 @@ The main parts of the project:
 
 ## Results<a name="results"></a>
 
-Please see the main findings of this project at the post available [here]()
+Please see the main findings of this project at the post available [here](https://medium.com/@elham.abdurusol/customer-segmentation-report-and-supervised-ml-learning-4974ffe48da8)
 
 ## Acknowledgements<a name="licensing"></a>
 
